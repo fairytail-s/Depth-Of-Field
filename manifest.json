@@ -1,0 +1,12 @@
+{
+  "type": "preload-native",
+  "name": "Depth of Field",
+  "author": "chromehaert",
+  "version": "1.2.1",
+  "entry": "DepthOfField.so",
+  "minecraft_versions": [
+    "1.26.*",
+    "1.26.5*"
+  ],
+  "icon": "icon.png"
+}
